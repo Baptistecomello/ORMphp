@@ -2,8 +2,10 @@
     
     namespace App\Repo;
 
+    use App\Entity\CustomerEntity;
+    
     class CustomerRepo extends OrmRepo {
-        const ENTITY = Customer::class;
+        const ENTITY = CustomerEntity::class;
     }
 
 ?>
