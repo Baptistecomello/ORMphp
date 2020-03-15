@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f8ac931-ff9d-4edc-b8b8-c2da3ef321cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Z4MDSv0eYtfNxYOUUMBptkfuFy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/App/Entity" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Xampp\htdocs\BDAA\script\App\Entity" />
+      <recent name="C:\Xampp\htdocs\BDAA\script\App\Repo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Xampp\htdocs\BDAA\script\App\Entity" />
+      <recent name="C:\Xampp\htdocs\BDAA\script\App\Helper" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f8ac931-ff9d-4edc-b8b8-c2da3ef321cf" name="Default Changelist" comment="" />
+      <created>1584093792594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584093792594</updated>
+      <workItem from="1584093794861" duration="10201000" />
+      <workItem from="1584105028050" duration="1873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584105370907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584105370907" />
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1584093903536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584093903536" />
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1584100452447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584100452447" />
+    <state x="763" y="334" key="NewPhpClassDialog" timestamp="1584100718448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="334" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584100718448" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1584094798759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1584094798759" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584105051438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584105051438" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1584100712620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584100712620" />
+    <state x="701" y="162" key="refactoring.ChangeSignatureDialog" timestamp="1584104721529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="162" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584104721529" />
+  </component>
+</project>
